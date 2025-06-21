@@ -1,4 +1,4 @@
-# FreshRSS third-party extensions
+# FreshRSS third-party extensions final
 
 You may place custom extensions for FreshRSS in this directory.
 
